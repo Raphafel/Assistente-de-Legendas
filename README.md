@@ -28,3 +28,5 @@ O **Noir** utiliza um modelo de IA (o Gemini, da Google!) como seu "cérebro" pa
 * **Conecta com a Arte e a Reflexão:** Adiciona um toque cultural e significativo às suas postagens.
 
 Este projeto, carinhosamente batizado de **Noir**, foi desenvolvido como parte da Imersão IA 2025 da Alura em parceria com o Google, aplicando conceitos de IA para criar um assistente que interage e gera conteúdo relevante.
+
+Assista ao Noir em Ação! ✨ [Link para o Vídeo de Demonstração](https://youtu.be/RHJu8Z_qtXI)
